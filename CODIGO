@@ -1,5 +1,7 @@
 # Promedio-Anual-de-Cosechas-C
 Tarea: Los dueños de un campo desean informatizar los informes sobre sus cosechas. Creen necesario disponer de un programa que permita almacenar en un arreglo unidimensional del tipo real las toneladas mensuales de cereales cosechadas durante el año 2019 en un campo. El programa tiene que emitir los siguientes informes a) El promedio anual de toneladas cosechadas b) ¿Cuántos meses tuvieron una cosecha superior al promedio anual? c) ¿En que mes o meses (mostrar NOMBRE DEL MES) se produjo el mayor número de toneladas? ¿Cuántas fueron? Usted ha sido seleccionado para crear un programa en lenguaje C que contemple lo solicitado por los dueños del campo, contamos con sus habilidades de programador para que realice un programa completo y eficiente.
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #define max 12
